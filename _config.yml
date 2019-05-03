@@ -32,3 +32,4 @@ theme_color: light
 # Build settings
 markdown: kramdown
 permalink: /:title/
+theme: jekyll-athena
