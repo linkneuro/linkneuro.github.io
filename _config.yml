@@ -16,7 +16,7 @@
 title: Link
 description: 
 # baseurl: "/athena" # the subpath of your site, e.g. /blog
-url: "https://linktrunks.github.io" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 baseurl: ""
 github_repo:  # the GitHub repo name for your project
 github_username: 
