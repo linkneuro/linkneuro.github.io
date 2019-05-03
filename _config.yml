@@ -16,7 +16,8 @@
 title: Athena Jekyll Theme
 description: A simple and elegant theme for Jekyll and GitHub Pages.
 # baseurl: "/athena" # the subpath of your site, e.g. /blog
-url: "http://linktrunks.github.io" # the base hostname & protocol for your site
+url: "https://linktrunks.github.io" # the base hostname & protocol for your site
+baseurl: ""
 github_repo: athena # the GitHub repo name for your project
 github_username: broccolini
 
