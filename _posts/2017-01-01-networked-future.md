@@ -78,6 +78,8 @@ Obviously Soros is better at explaining the theory of reflexivity and how it app
 
 > I can state the core idea in two relatively simple propositions. One is that in situations that have thinking participants, the participants’ view of the world is always partial and distorted. That is the principle of fallibility. The other is that these distorted views can influence the situation to which they relate because false views lead to inappropriate actions. That is the principle of reflexivity. For instance, treating drug addicts as criminals creates criminal behavior. It misconstrues the problem and interferes with the proper treatment of addicts. As another example, declaring that government is bad tends to make for bad government.
 
+<img src="http://link.com.de/media/soros-reflexive-cycle.png" />
+
 If you like more details on this:
 
 > The concept of reflexivity needs a little more explication. It applies exclusively to situations that have thinking participants. The participants’ thinking serves two functions. One is to understand the world in which we live; I call this the cognitive function. The other is to change the situation to our advantage. I call this the participating or manipulative function. The two functions connect thinking and reality in opposite directions. In the cognitive function, reality is supposed to determine the participants’ views; the direction of causation is from the world to the mind. By contrast, in the manipulative function, the direction of causation is from the mind to the world, that is to say, the intentions of the participants have an effect on the world. When both functions operate at the same time they can interfere with each other.
