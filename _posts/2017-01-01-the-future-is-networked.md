@@ -29,39 +29,40 @@ With so much information and noise in the space, I think it can be very difficul
 
 Anyway, here are a few key insights that we should bear in mind as we go deeper into the networked future that crypto-economics is enabling.
 
-A self-sovereign asset class
+### A self-sovereign asset class
+
 The owner of the asset is the owner of the asset. The private keys to the virtual ledger in the cloud represent real ownership in the network. Blockchain-based assets are defined by software. Consensus and legal agreements by software. The tokens of these networks are global and liquid. They are defined by scarcity. As the value of the network increases, the value of the tokens increases. The networks are open-source and the tokens are cryptographically secured.
 
-The paradigm towards open financial protocols will continue to accelerate
+### The paradigm towards open financial protocols will continue to accelerate
 Open-source crypto-economic networks encourage early stakeholders to come together to build protocols that fulfill the original vision of a decentralized internet.
 
-Blockchain-based networks spawn an entire new alternative financial market
+### Blockchain-based networks spawn an entire new alternative financial market
 Hierarchies, companies and contracts stand to be disrupted. The disintermediation of monopolistic systems will lead to trust-less systems. As networks are turned into markets, open financial protocols will provide unparalleled financial access.
 
-The printing press effect
+### The printing press effect
 Crypto-economics will give rise to a multi-polar world in which alternative economic entities and governments compete. Innovation is no longer the monopoly of one region or country.
 
-What will give crypto legitimacy?
+### What will give crypto legitimacy?
 In a recent conversation at the Economic Club of New York, Peter Thiel said that as a store of value Bitcoin still has ways to go. Essentially he legitimized it as a digital gold alternative. The gold market is $8 trillion, while the entire crypto market is about ~ $0.3 trillion, up 10x from where it was a year ago. It shares some of the same characteristics. Just like gold, bitcoin is not backed by any government. It is not sure what the intrinsic value is. It may well be a bubble, and most bubble are unstable and end badly. He said that even if there is a bubble type of element that doesn’t rebut the argument that Bitcoin isn’t valuable. He did compare crypto to the IPO mania and there are a lot of similarities. But he also said that it still strikes him as deeply contrarian. Probability weighted it is a good investment. The point of all of this paragraph is that we ought to think what gives this revolution its legitimacy. In some ways crypto does not need to get outside legitimacy because it is in math we trust but it has been interesting to watch how certain sources that provide legitimacy to crypto have very positive effects to the industry, like the Ethereum Enterprise Alliance was an early catalyst to the ecosystem last year.
 
-The coming clash of networks vs. hierarchies
+### The coming clash of networks vs. hierarchies
 “Financial markets are like the mirror of mankind, revealing every hour of every working day the way we value ourselves and the resources of the world around us.”
  — Niall Ferguson
 
-I t is appropriate that in this discussion of a networked future that I include some thoughts of my former professor and financial historian Niall Ferguson. Here is a key insight from him as to why networks matter: “Networks are important not just as transmission mechanisms for new ideas, but as the sources of the new ideas themselves.”
+It is appropriate that in this discussion of a networked future that I include some thoughts of my former professor and financial historian Niall Ferguson. Here is a key insight from him as to why networks matter: “Networks are important not just as transmission mechanisms for new ideas, but as the sources of the new ideas themselves.”
 
 The printing revolution unleashed wave after wave of revolution. The question is: are open financial protocols going to a similar effect? As Ferguson asks, “will those new networks liberate us from the shackles of the administrative state as the revolutionary networks in the past freed our ancestors from the shackles of spiritual and temporal hierarchy?”
 
 His 7 insights of network theory:
 
-No man is an island: Individuals can be understood in terms of the relationship to other nodes. Defined by the number of relationships, and the likelihood of her being a bridge between other nodes. To what extent can you be a network bridge? Connectors are the new leaders.
-Birds of a feather flock together: what is the nature of the network linkages? What gets exchanged within the network? What kind of network is it? What is the relationship between the different nodes?
-Weak ties are strong: How dense is a network? How connected it is to other clusters?
-Structure determines virality: Ideas go viral because of the structural features of the network. Networks are more likely to do this than hierarchies.
-Networks never sleep: Dynamic networks are prone to constant changes. As Ferguson explains, they are “complex adaptive systems with emergent properties.” Small changes can have big consequences.
-Networks network: Interaction within networks can lead to innovation and invention.
-The rich get richer: Most social networks are profoundly inegalitarian.
-Ferguson’s conclusion: “Expect continued network-driven disruption of hierarchies that cannot reform themselves, but also the potential for some kind of restoration of hierarchical order when it becomes clear that the networks alone cannot avert a decent into anarchy.”
+> No man is an island: Individuals can be understood in terms of the relationship to other nodes. Defined by the number of relationships, and the likelihood of her being a bridge between other nodes. To what extent can you be a network bridge? Connectors are the new leaders.
+> Birds of a feather flock together: what is the nature of the network linkages? What gets exchanged within the network? What kind of network is it? What is the relationship between the different nodes?
+> Weak ties are strong: How dense is a network? How connected it is to other clusters?
+> Structure determines virality: Ideas go viral because of the structural features of the network. Networks are more likely to do this than hierarchies.
+> Networks never sleep: Dynamic networks are prone to constant changes. As Ferguson explains, they are “complex adaptive systems with emergent properties.” Small changes can have big consequences.
+> Networks network: Interaction within networks can lead to innovation and invention.
+> The rich get richer: Most social networks are profoundly inegalitarian.
+> Ferguson’s conclusion: “Expect continued network-driven disruption of hierarchies that cannot reform themselves, but also the potential for some kind of restoration of hierarchical order when it becomes clear that the networks alone cannot avert a decent into anarchy.”
 
 The sharing of novel ideas in the 18th century within networks of scholars created tremendous progress. The same is happening now in crypto communities all over the world. Having seen this first-hand, there exists a global hidden network of crypto developers and investors that are not so secretly building an alternative economic reality. Whether it is Devcon last year, or Deconomy now, the crypto elite is wandering around like a circus from one summit to the next, from hidden gatherings like the Satoshi Roundtable to more public conventions.
 
@@ -92,7 +93,7 @@ The anatomy of a bubble or boom-bust processes
 
 Again, better to be understood in Soros’s own words:
 
-I have developed a theory about boom-bust processes, or bubbles, along these lines. Every bubble has two components: an underlying trend that prevails in reality and a misconception relating to that trend. A boom-bust process is set in motion when a trend and a misconception positively reinforce each other. The process is liable to be tested by negative feedback along the way. If the trend is strong enough to survive the test, both the trend and the misconception will be further reinforced. Eventually, market expectations become so far removed from reality that people are forced to recognize that a misconception is involved. A twilight period ensues during which doubts grow, and more people loose faith, but the prevailing trend is sustained by inertia. As Chuck Prince, former head of Citigroup said: we must continue dancing until the music stops. Eventually a point is reached when the trend is reversed; it then becomes self reinforcing in the opposite direction…
+> I have developed a theory about boom-bust processes, or bubbles, along these lines. Every bubble has two components: an underlying trend that prevails in reality and a misconception relating to that trend. A boom-bust process is set in motion when a trend and a misconception positively reinforce each other. The process is liable to be tested by negative feedback along the way. If the trend is strong enough to survive the test, both the trend and the misconception will be further reinforced. Eventually, market expectations become so far removed from reality that people are forced to recognize that a misconception is involved. A twilight period ensues during which doubts grow, and more people loose faith, but the prevailing trend is sustained by inertia. As Chuck Prince, former head of Citigroup said: we must continue dancing until the music stops. Eventually a point is reached when the trend is reversed; it then becomes self reinforcing in the opposite direction…
 … Bubbles that conform to this pattern go through distinct stages: inception; a period of acceleration, interrupted and reinforced by successful tests; a twilight period; and the reversal point or climax, followed by acceleration on the downside culminating in a financial crisis. The length and strength of each stage is unpredictable, but there is an internal logic to the sequence of stages. So the sequence is predictable-but even that can be terminated by government intervention or some other form of negative feedback.
 Typically, bubbles have an asymmetric shape. The boom is long and drawn out: slow to start, it accelerates gradually until it flattens out during the twilight period. The bust is short and steep because it is reinforced by the forced liquidation of unsound positions. Disillusionment turns into panic, reaching its climax in a financial crisis.
 Skin in the game
@@ -110,7 +111,7 @@ Where will innovation in the future come from? It is unlikely to come from just 
 
 Most people did not predict the crypto rise the way it happened. It was missed in New York and it also was missed here in Silicon Valley. Crypto naturally emerged in a distributed way. For example, many bleeding edge projects are based outside the United States. Ethereum and Dfinity are based in Zug, Switzerland.
 
-A New Narrative
+### A New Narrative
 Going back to the Thiel conversation at the Economic Club, he also stressed the importance of a good story and the necessary charisma for the technology to truly impact the world. You want to have a future where people are inspired and it is not just about money, he said, I think. And crypto Thiel remarks qualifies where these young people do have this vision of a very different world that they are trying to build. AI for example is not as charismatic. This key. And this brings me to my last point.
 
 If there is one thing that I have learned being part of some of the best networks in the world it is that the ecosystem pushes you to grow as an individual beyond what you could maybe imagine for yourself. This is what the best networks and communities can do for you. And that is something special to care about.
@@ -125,7 +126,7 @@ Thiel says we should steelman the people we disagree with. How can we make their
 As an appendix, a few quotes from some of the best investors I have learned from
 As an added bonus, here some wisdom from some of the best investment minds, excerpts I have saved in my personal library throughout my career. Even though they were not in crypto, a lot of the knowledge transfers. Enjoy, in no particular order:
 
-Patterns among top investors Tony Robbins interviewed:
+### Patterns among top investors Tony Robbins interviewed:
 
 They are obsessed not losing money.
 They aim to get the highest reward with the least amount of money.Whats a risk less trade that I make?
