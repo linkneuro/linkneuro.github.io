@@ -31,7 +31,7 @@ Like many of you I have not been focusing on crypto since inception. When I was 
 
 With so much information and noise in the space, I think it can be very difficult to maintain perspective. That’s why in this essay I want to look at the big picture, while also exploring underlying dynamics of this network revolution. As the latest bear market has demonstrated, there is always a new generation of speculators that are drawn in when the media drives a new narrative to bring crypto to the mainstream. These weak hands are bleeding themselves out and we are beginning to enter another accumulation phase. During these times crypto is deemed dead. This is a good time also to reflect on what has happened.
 
-Anyway, here are a few key insights that we should bear in mind as we go deeper into the networked future that crypto-economics is enabling.
+To begin, here are a few key insights that we should bear in mind as we go deeper into the networked future that crypto-economics is enabling.
 
 ### A self-sovereign asset class
 
@@ -104,7 +104,7 @@ Historically society was run by risk-takers. Prominent ones took more risks than
 For instance, bank blowups came in 2008 because of the accumulation of hidden and asymmetric risks in the system: bankers, master risk transferors, could make steady money from a certain class of concealed explosive risks, use academic risk models that don’t work except on paper (because academics know practically nothing about risk), then invoke uncertainty after a blowup (that same unseen and unforecastable Black Swan and that same very, very stubborn author), and keep past income — what I have called the Bob Rubin trade. This is a topic worthy its own essay. For now, will end with Taleb’s words, “Well, we have no choice but to decentralize or, more politely, to localize; to have fewer of these immune decision makers.”
 
 ### The end of Silicon Valley
-Obviously a bit dramatic as a subtitle, but the core idea persists: in a decentralized future, centralized hubs of innovation should cease to exist. That doesn’t mean that Silicon Valley is in decline, just as the United States may be in decline, but it is all relative. Silicon Valley will remain the leader in global innovation for years to come, but just as Silicon Valley was blind to crypto, it will be blind to other things, problems that it may not see the need to solve when there is real need abroad in developing parts of the world.
+Obviously a bit dramatic as a subtitle, but the core idea persists: in a decentralized future, centralized hubs of innovation should cease to be as important as the were in the past. That doesn’t mean that Silicon Valley is in decline, just as the United States may be in decline, but it is relative. Silicon Valley will remain the leader in global innovation for years to come, but just as Silicon Valley was blind to crypto, it will be blind to other things, problems that it may not see the need to solve when there is real need abroad in developing parts of the world.
 
 Where will innovation in the future come from? It is unlikely to come from just one geographical center like Silicon Valley. The future is decentralized and as a consequence hubs around the world are already challenging Silicon Valley in its supremacy as the sole place where the future is happening.
 
