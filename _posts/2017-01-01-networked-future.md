@@ -7,7 +7,9 @@ tags: crypto
 
 Ten years after Satoshi Nakamoto published the Bitcoin white paper, the world is finally diverging from the old economic model that was deemed broken after the last great financial crisis. Although there is still widespread dissonance within the elite that open, financial protocols are nothing more than a bubble, the genie is out of the bottle. The narrative of the bubble that the media has created will only accelerate this. Looking closely to what is actually happening is key to understanding how the future will develop.
 
-In 2008, I was a student of the financial crisis and operated in the stock market. I had traded Magic the Gathering cards and played World of Warcraft before I got hooked by the stock market. The market struck me as this four dimensional puzzle that you constantly had to figure out in order to predict correctly. The stock market was also foundational to how the global economy functioned. It was a never ending knowledge puzzle that I had to figure out. It was the perfect adventure to embark on: to understand how the world at a deeper level. When I discovered Bitcoin and even more importantly crypto-economics, I was even more in awe.
+# The backstory
+
+First, a side note and story how I got into the space. In 2008, I was a student of the financial crisis and operated in the stock market. I had traded Magic the Gathering cards and played World of Warcraft before I got hooked by the stock market. The market struck me as this four dimensional puzzle that you constantly had to figure out in order to predict correctly. The stock market was also foundational to how the global economy functioned. It was a never ending knowledge puzzle that I had to figure out. It was the perfect adventure to embark on: to understand how the world at a deeper level. When I discovered Bitcoin and even more importantly crypto-economics, I was even more in awe.
 
 So I had saved money from trading these card games and started to build a capital base that I used to speculate in the German stock market. I began reading everything I could about trading, investing and the global financial order. I read up the entire financial history. I had read up everything I could find in my local library. Having learned to operate in virtual worlds like World of Warcraft, leading dozens of people into virtual raids, I had played the perfect game to prepare me for the ultimate virtual reality: America. What better way to learn how capitalism worked than work in America.
 
@@ -20,6 +22,8 @@ When we speculate about how the future will develop, the answer is rarely what w
 I had watched the financial elite come together in the wake of the 2008 financial crisis and fail to know how to address the systemic issues that led up to the crisis in the first place. As Soros would say they had a mistaken interpretation of how financial markets work. By the way, the financial elite at the time was completely oblivious to the decentralized crypto paradigm.
 
 The paradigm that actually switched the world economy has been predicted by few people. It is shocking to see so few of the experts at the time realize what was actually happening. Literally nobody was talking about it. Well, that was part of my own bias that I had developed that kept me blind to it like everyone else. In 2013, I was invited as a young scholar to George Soros’s New Economic Thinking inaugural conference. This was considered bleeding-edge intellectual thought discussions and nobody mentioned Bitcoin.
+
+# A new paradigm
 
 This is not an expose on Bitcoin and open, decentralized financial protocols. I am not trying to convince you here why Bitcoin, Ethereum, or other networks represent the future. There are plenty of articles now on the web that have been targeted at educating the public. They are great and I’ve read many of them. I first wrote about the crypto markets when they were at an inflection point at $30 billion. I remember in early 2016 walking through Stanford and Harvard and having trouble finding many others in interested in crypto. I was invited to give a talk to students. Now it seems everyone wants to speak on the matter. Everyone is an expert.
 
@@ -56,24 +60,20 @@ The printing revolution unleashed wave after wave of revolution. The question is
 His 7 insights of network theory:
 
 1. No man is an island: Individuals can be understood in terms of the relationship to other nodes. Defined by the number of relationships, and the likelihood of her being a bridge between other nodes. To what extent can you be a network bridge? Connectors are the new leaders.
-2. Birds of a feather flock together: what is the nature of the network linkages? What gets exchanged within the network? What kind of network is it? What is the relationship between the different nodes?
-3. Weak ties are strong: How dense is a network? How connected it is to other clusters?
-4. Structure determines virality: Ideas go viral because of the structural features of the network. Networks are more likely to do this than hierarchies.
-5. Networks never sleep: Dynamic networks are prone to constant changes. As Ferguson explains, they are “complex adaptive systems with emergent properties.” Small changes can have big consequences.
-6. Networks network: Interaction within networks can lead to innovation and invention.
-7. The rich get richer: Most social networks are profoundly inegalitarian.
+1. Birds of a feather flock together: what is the nature of the network linkages? What gets exchanged within the network? What kind of network is it? What is the relationship between the different nodes?
+1. Weak ties are strong: How dense is a network? How connected it is to other clusters?
+1. Structure determines virality: Ideas go viral because of the structural features of the network. Networks are more likely to do this than hierarchies.
+1. Networks never sleep: Dynamic networks are prone to constant changes. As Ferguson explains, they are “complex adaptive systems with emergent properties.” Small changes can have big consequences.
+1. Networks network: Interaction within networks can lead to innovation and invention.
+1. The rich get richer: Most social networks are profoundly inegalitarian.
 
 Ferguson’s conclusion: “Expect continued network-driven disruption of hierarchies that cannot reform themselves, but also the potential for some kind of restoration of hierarchical order when it becomes clear that the networks alone cannot avert a decent into anarchy.”
 
 The sharing of novel ideas in the 18th century within networks of scholars created tremendous progress. The same is happening now in crypto communities all over the world. Having seen this first-hand, there exists a global hidden network of crypto developers and investors that are not so secretly building an alternative economic reality. Whether it is Devcon last year, or Deconomy now, the crypto elite is wandering around like a circus from one summit to the next, from hidden gatherings like the Satoshi Roundtable to more public conventions.
 
-His remark on monetary debasement throughout history also interesting: “Since ancient history times states have exploited their ability to monopolize the issuance of currency, whether the issuance of currency, whether coins stamped with the king’s likeness, banknotes depicting past presidents or electronic entries on a screen.” Who is holding the judge accountable? Who is holding governments accountable? How can we restore trust in government?
+His remark on monetary debasement throughout history is also interesting: “Since ancient history times states have exploited their ability to monopolize the issuance of currency, whether the issuance of currency, whether coins stamped with the king’s likeness, banknotes depicting past presidents or electronic entries on a screen.” Who is holding the judge accountable? Who is holding governments accountable? How can we restore trust in government?
 
-A word of caution on networks from co-founder of Twitter Ev Williams, “The lesson of history is that trusting in networks to run the world is a recipe for anarchy: at best, power ends up in the hands of the Illuminati, but more likely it ends up being in the hands of the Jacobins.”
-
-The one lesson I want to leave you with is never forget history. We cannot change the past, but knowing the past can help instruct the future. As Winston Churchill wrote “the longer you can look back, the farther you can look forward.”
-
-Markets are inherently reflexive
+### Markets are inherently reflexive
 Obviously Soros is better at explaining the theory of reflexivity and how it applies to financial markets. This gets quite theoretical so feel free to skip ahead. Here is a short excerpt from Soros himself:
 
 > I can state the core idea in two relatively simple propositions. One is that in situations that have thinking participants, the participants’ view of the world is always partial and distorted. That is the principle of fallibility. The other is that these distorted views can influence the situation to which they relate because false views lead to inappropriate actions. That is the principle of reflexivity. For instance, treating drug addicts as criminals creates criminal behavior. It misconstrues the problem and interferes with the proper treatment of addicts. As another example, declaring that government is bad tends to make for bad government.
@@ -85,13 +85,11 @@ How? By depriving each function of the independent variable that would be needed
 
 Reflexivity holds a major key in understanding financial bubbles. Next understanding the anatomy of bubbles will save the ordinary speculator probably a lot of tuition that he otherwise will have to pay in the future.
 
-In the real world, the participants’ thinking finds expression not only in statements but also, of course, in various forms of action and behavior. That makes reflexivity a very broad phenomenon that typically takes the form of feedback loops. The participants’ views influence the course of events, and the course of events influences the participants’ views. The influence is continuous and circular; that is what turns it into a feedback loop.
-If you care to read my take on it, I wrote my undergraduate thesis on Soros’s theory of reflexivity. That was a long time ago, so don’t judge me. Alas, I did not do Soros justice, because years later when former Soros CIO and former CEO forwarded my thesis to Soros, I did not get a response back haha
+In the real world, the participants’ thinking finds expression not only in statements but also, of course, in various forms of action and behavior. That makes reflexivity a very broad phenomenon that typically takes the form of feedback loops. The participants’ views influence the course of events, and the course of events influences the participants’ views. The influence is continuous and circular; that is what turns it into a feedback loop. If you care to read my take on it, I wrote my undergraduate thesis on Soros’s theory of reflexivity. That was a long time ago, so don’t judge me. Alas, I did not do Soros justice, because years later when former Soros CIO and former CEO forwarded my thesis to Soros, I did not get a response back haha
 
 # The anatomy of a bubble or boom-bust processes
 “Men, it has been well said, think in herds; it will be seen that they go mad in herds, while they only recover their senses slowly, and one by one.” 
  — Gustave Le Bon
-
 
 Again, better to be understood in Soros’s own words:
 
@@ -103,8 +101,7 @@ Historically society was run by risk-takers. Prominent ones took more risks than
 
 ### The 2008 crisis should serve as a lesson learned:
 
-For instance, bank blowups came in 2008 because of the accumulation of hidden and asymmetric risks in the system: bankers, master risk transferors, could make steady money from a certain class of concealed explosive risks, use academic risk models that don’t work except on paper (because academics know practically nothing about risk), then invoke uncertainty after a blowup (that same unseen and unforecastable Black Swan and that same very, very stubborn author), and keep past income — what I have called the Bob Rubin trade.
-This is a topic worthy its own essay. For now, will end with Taleb’s words, “Well, we have no choice but to decentralize or, more politely, to localize; to have fewer of these immune decision makers.”
+For instance, bank blowups came in 2008 because of the accumulation of hidden and asymmetric risks in the system: bankers, master risk transferors, could make steady money from a certain class of concealed explosive risks, use academic risk models that don’t work except on paper (because academics know practically nothing about risk), then invoke uncertainty after a blowup (that same unseen and unforecastable Black Swan and that same very, very stubborn author), and keep past income — what I have called the Bob Rubin trade. This is a topic worthy its own essay. For now, will end with Taleb’s words, “Well, we have no choice but to decentralize or, more politely, to localize; to have fewer of these immune decision makers.”
 
 ### The end of Silicon Valley
 Obviously a bit dramatic as a subtitle, but the core idea persists: in a decentralized future, centralized hubs of innovation should cease to exist. That doesn’t mean that Silicon Valley is in decline, just as the United States may be in decline, but it is all relative. Silicon Valley will remain the leader in global innovation for years to come, but just as Silicon Valley was blind to crypto, it will be blind to other things, problems that it may not see the need to solve when there is real need abroad in developing parts of the world.
@@ -122,19 +119,12 @@ And that is why it is so important to be part of the best network that you could
 
 The economic base that will be necessary to sustain an early colony on Mars. That is where crypto-economics and Mars meet. With crypto we can create new forms of value and we are now establishing the economic infrastructure. We can now create new open societies based on crypto-economic principles.
 
-Please steelman my arguments here
-Thiel says we should steelman the people we disagree with. How can we make their arguments even better than we make them? In that vein, please submit your feedback, suggestions, comments and feel free to disagree. As Voltaire used to say, “I wholly disapprove of what you say and will defend to the death your right to say it.” There are many forks in history but not all of them matter in the end. Where will crypto lead you?
+### Appendix 
 
-As an appendix, a few quotes from some of the best investors I have learned from
-As an added bonus, here some wisdom from some of the best investment minds, excerpts I have saved in my personal library throughout my career. Even though they were not in crypto, a lot of the knowledge transfers. Enjoy, in no particular order:
+As an added bonus, here is some wisdom from some of the best investment minds, excerpts I have saved in my personal library throughout my career. Even though they were not in crypto, a lot of the knowledge transfers. Enjoy, in no particular order:
 
-### Patterns among top investors Tony Robbins interviewed:
+Patterns among top investors Tony Robbins interviewed: They are obsessed not losing money. They aim to get the highest reward with the least amount of money.Whats a risk less trade that I make? They know they are going to be wrong. Set up a system asset allocation that protects them. They are life long learners. They are passionate givers.
 
-They are obsessed not losing money.
-They aim to get the highest reward with the least amount of money.Whats a risk less trade that I make?
-They know they are going to be wrong. Set up a system asset allocation that protects them.
-They are life long learners.
-They are passionate givers.
 “Markets work like a machine and to understand it one needs to understand how the machine works.” 
  — Ray Dalio
 
