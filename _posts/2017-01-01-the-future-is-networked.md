@@ -1,8 +1,11 @@
+---
 layout: post
 title:  "The Future Is Networked"
 category: research
 tags: crypto
+---
 
+### The Future Is Networked
 
 Ten years after Satoshi Nakamoto published the Bitcoin white paper, the world is finally diverging from the old economic model that was deemed broken after the last great financial crisis. Although there is still widespread dissonance within the elite that open, financial protocols are nothing more than a bubble, the genie is out of the bottle. The narrative of the bubble that the media has created will only accelerate this. Looking closely to what is actually happening is key to understanding how the future will develop.
 
