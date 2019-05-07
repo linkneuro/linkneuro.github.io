@@ -10,7 +10,7 @@ tags: syrus
 
 [Introduction](/introduction)
 
-### [Part I: Learning](/learning)
+### [Part I: Learning](/learning)\
 
 
 [Never Stop Learning](/never-stop-learning)
@@ -39,7 +39,7 @@ tags: syrus
 
 [Learning Takeaway](/learning-takeaway)
 
-### [Part II: Thinking](/thinking)
+### [Part II: Thinking](/thinking)\
 
 
 [Watch Your Thoughts](/watch-thoughts)
@@ -66,7 +66,7 @@ tags: syrus
 
 [Thinking Takeaway](/thinking-takeaway)
 
-### [Part III: Action](/action)
+### [Part III: Action](/action)\
 
 [Take Initiative](/take-initiative)
 
@@ -95,9 +95,9 @@ tags: syrus
 [Action Takeaway](/action-takeaway)
 
 
-[Epilogue](https://note.link.com.de/epilogue)
+[Epilogue](https://note.link.com.de/epilogue)\
 
-### More information about Rule Over Self
+### More information
 
 [https://amazon.com/author/link](https://amazon.com/author/link)
 
