@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Rule Over Self: Prologue"
-categories: thinker
+title:  "Rule Over Self: Never Stop Learning"
+categories: self
 tags: 
 ---
 
@@ -26,7 +26,7 @@ Have you ever questioned the nature of your reality? How we think of ourselves a
 
 Plato illustrated that as long as we don’t question the nature of our reality, we remain trapped by it, our self-limitations stunting our growth as individuals. Why do we pursue concepts such as marriage, but never question what it means in today’s world or how its significance changed since ancient times?
 
-<img src="http://note.link.com.de/media/syrus-introduction.jpg" />
+<img src="http://note.link.com.de/media/introduction.jpg" />
 
 
 Instead of forging our path, we chase the phantoms of those already laid out for us by others. Consider the many traditions that you have adopted, which have been passed down from generation to generation. We often choose ignorance, turning a blind eye to all of the surrounding factors that stop us from moving forward.
@@ -35,6 +35,6 @@ Granted, it’s difficult to overturn the status quo. (Socrates was sentenced to
 
 The purpose of this book is to help you discover possibilities beyond what society deems possible by clarifying your thinking about how to move your ideas forward. It will help you destroy negative thought patterns that often guard the way of turning your ideas into reality.
 
-The Thinker has three distinct parts: learning, thinking, and action. These parts constitute the framework of growth that underpins the theme of this book. To grow means to learn, think, and act. Learning is a critical component to accelerate growth. By understanding how to structure thoughts, you will learn how to develop equanimity and independence. We will also explore the obstacles that so often inhibit action. The book features ideas that I need to remind myself of to become a better thinker. Every chapter has strength independently but also connects to the framework as a whole.
+Rule Over Self has three distinct parts: learning, thinking, and action. These parts constitute the framework of growth that underpins the theme of this book. To grow means to learn, think, and act. Learning is a critical component to accelerate growth. By understanding how to structure thoughts, you will learn how to develop equanimity and independence. We will also explore the obstacles that so often inhibit action. The book features ideas that I need to remind myself of to become a better thinker. Every chapter has strength independently but also connects to the framework as a whole.
 
 Our thinking can make or break us. We can be a master or slave to our thoughts. The choice is ours. It is my hope that after reading this book, you will see your surroundings — and yourself — with fresh eyes. With thousands of thoughts every day swirling through our mind, the only thing we have control of is how we respond to them.
