@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Future Is Networked"
-categories: crypto
+categories: network
 tags: 
 ---
 

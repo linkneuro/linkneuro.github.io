@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Rule Over Self"
-categories: new
+title:  "Rule Over Self: Index"
+categories: self
 tags: 
 ---
 
