@@ -5,18 +5,25 @@ categories: book
 tags: syrus
 ---
 
-[Prologue](../_posts/2016-08-01-prologue.md)
+[Prologue](/prologue)
 
 [Introduction](https://note.link.com.de/introduction)
 
 ### [Part I: Learning](https://note.link.com.de/learning)
 [Never Stop Learning](https://note.link.com.de/never-stop-learning)
+
 [Escape Your Prison](https://note.link.com.de/escape-prison)
+
 [Embrace Change](https://note.link.com.de/embrace-change)
+
 [Adjust the Sail](https://note.link.com.de/adjust-the-sail)
+
 [Kindle Your Imagination](https://note.link.com.de/kindle-imagination)
+
 [Invest In Yourself](https://note.link.com.de/invest-self)
+
 [Level Up](https://note.link.com.de/level-up)
+
 [Examine Things Deeply](https://note.link.com.de/)
 
 ### Part II: Thinking
