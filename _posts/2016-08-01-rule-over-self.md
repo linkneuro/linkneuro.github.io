@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Rule Over Self"
-category: new old self master tree trunks hold hodl
+category: new
 tags: 
 ---
 
