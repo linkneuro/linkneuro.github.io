@@ -2,7 +2,7 @@
 layout: post
 title:  "Rule Over Self: Index"
 categories: self
-tags: 
+tags: syrus
 ---
 
 

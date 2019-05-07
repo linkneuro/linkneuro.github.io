@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Rule Over Self: Escape Prison"
+title:  "Escape Your Prison"
 categories: self
-tags: 
+tags: syrus
 ---
 
 “Those who are unaware they are walking in darkness will never seek the light.”

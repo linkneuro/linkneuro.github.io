@@ -1,9 +1,8 @@
-
 ---
 layout: post
 title:  "Rule Over Self: Never Stop Learning"
 categories: self
-tags: 
+tags: syrus
 ---
 
 “Learning never exhausts the mind.”

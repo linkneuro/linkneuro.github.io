@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Rule Over Self: Never Stop Learning"
+title:  "Rule Over Self: Introduction"
 categories: self
-tags: 
+tags: syrus
 ---
 
 “The true value of a human being is determined primarily by the measure and the sense in which he has attained liberation from the self.”
