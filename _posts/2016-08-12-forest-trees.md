@@ -5,7 +5,7 @@ categories: self
 tags: syrus
 ---
 
-A person who does not know the history of the last 3,000 years wanders in the darkness of ignorance, unable to make sense of the reality around him.”
+"A person who does not know the history of the last 3,000 years wanders in the darkness of ignorance, unable to make sense of the reality around him.”
 — Johann Wolfgang von Goethe
 
 A t the turn of the 19th century, the electric car was so popular that electricity powered more than one-third of all vehicles. William Morrison had built the first electric car in the United States in 1891. By 1897, New York taxis got electrified by the Electric Carriage and Wagon Company of Philadelphia.
