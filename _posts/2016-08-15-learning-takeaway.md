@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Rule Over Self: Learning Takeway"
-categories: essay
+categories: 
 tags: syrus learning
 ---
 

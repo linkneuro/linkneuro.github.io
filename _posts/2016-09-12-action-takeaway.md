@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Rule Over Self: Action Takeaway"
-categories: essay
+categories: 
 tags: syrus action
 ---
 

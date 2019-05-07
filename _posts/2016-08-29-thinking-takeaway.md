@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Rule Over Self: Thinking Takeaway"
-categories: essay
+categories: 
 tags: syrus thinking
 ---
 

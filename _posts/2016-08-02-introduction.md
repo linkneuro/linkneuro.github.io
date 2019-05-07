@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Rule Over Self: Introduction"
-categories: essay
+categories: 
 tags: syrus
 ---
 
