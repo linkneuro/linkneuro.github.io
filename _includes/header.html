@@ -26,4 +26,8 @@
       {% endfor %}
     </ul>
   </div>
+
+  {% if site.tags != "" %}
+  {% include collecttags.html %}
+{% endif %}
 </header>
