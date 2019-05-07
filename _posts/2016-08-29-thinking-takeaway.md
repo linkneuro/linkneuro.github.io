@@ -11,7 +11,7 @@ The chapters on thinking that were offered here were meant to help you to struct
 
 If we isolate ourselves and only live in our world, at some point we won’t have anything to think about except our own thoughts. Our thinking is also interconnected with our actions, and the more we can connect the two, the more we can improve both our thinking and action.
 
-<img src="http://note.link.com.de/media/thinking-takeaway.jpg" />
+<img src="/media/thinking-takeaway.jpg" />
 
 Destroying the negative thought patterns that limit our lives is an endeavor that doesn’t happen overnight. Everyone has different thought patterns that affect them adversely. If we steadily increase our awareness of our negative thought patterns, we can take steps to reprogram our mind. When we have a better sense of how our mind works, we can solve the mental blockages that limit our potential.
 

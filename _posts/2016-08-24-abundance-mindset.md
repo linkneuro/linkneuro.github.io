@@ -18,7 +18,7 @@ From the Upper Paleolithic to 1900, according to Human Progress, a project of th
 
 Zero-sum thinking was common in a world where people gained through taking value from others instead of creating it. When the world was trapped in a stationary mode where progress was limited, the people in that world were more preoccupied with dividing up the already existing pie rather than focusing on making a greater one.
 
-<img src="http://note.link.com.de/media/abundance-mindset.jpg" />
+<img src="/media/abundance-mindset.jpg" />
 
 Most people lived a life of subsistence where existing beyond survival was an illusion. Despite working from sunrise to sunset, starvation for ordinary folks was common. Violence was a constant threat. Roman playwright Plautus described how man is a wolf to another man. In a world of separation rather than cooperation, a competitive mindset prevailed.
 

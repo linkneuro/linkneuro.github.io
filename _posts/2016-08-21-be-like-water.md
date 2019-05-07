@@ -32,7 +32,7 @@ On his journey to master Kung Fu, Bruce Lee’s mentor, Wing Chun Yip Man, sugge
 
 Right then — at that moment — a thought suddenly struck me; was not this water the very essence of Kung Fu? Hadn’t this water just now illustrated to me the principle of Kung Fu?… This water, the softest substance in the world, which the smallest jar could contain, only seemed weak. In reality, it could penetrate the hardest substance in the world. That was it! I wanted to be like the nature of water.
 
-<img src="http://note.link.com.de/media/be-like-water.jpg" />
+<img src="/media/be-like-water.jpg" />
 
 The goal of mastering our emotions is to obtain a state of equanimity. Equanimity is defined as a balanced mind and is synonymous with mental calmness, composure, and evenness of temper. The Greeks called it apatheia, and the Stoics referred to it as an Inner Citadel, where no external event can disturb you. For Epicureans, it was ataraxia, which means “peace of mind.” For Buddhists, it’s Upekkha, or having an evenness of mind. Voltaire explained it as a quiet courage in the midst of tumult and serenity of soul in danger.
 

@@ -18,7 +18,7 @@ After growing bored with life in New York, Harvey Milk moved across the country 
 
 He wouldn’t let that stop him. He spoke up and became politically active. In 1977, his efforts paid off; he won a seat on the San Francisco Board of Supervisors, becoming the city’s first openly gay officer. He made the impossible possible and became an inspiration to the entire LGBT community. Despite his tragic assassination one year after his inauguration, Harvey Milk remains a symbol for activism and a champion of civil rights for homosexuals.
 
-<img src="http://note.link.com.de/media/kindle-imagination.jpg" />
+<img src="/media/kindle-imagination.jpg" />
 
 Possibilities — it’s what film director James Cameron calls the moment when the fantastic becomes the possible. When opportunities open up and a new world opens. The first step in kindling your imagination is to not let past or preconceived notions interfere.
 

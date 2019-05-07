@@ -12,7 +12,7 @@ A s a student of philosophy under Karl Popper at the London School of Economics,
 
 As he started his career on Wall Street, he slowly realized that thinking is more useful when you also act. Once he discovered that he could learn more through action than contemplation, he leveraged his thinking.
 
-<img src="http://note.link.com.de/media/think-by-doing.jpg" />
+<img src="/media/think-by-doing.jpg" />
 
 In Soros on Soros he shared, “I became an active thinker where my thinking played a major role in deciding what actions to take and my actions play an important role in improving my thinking.”
 

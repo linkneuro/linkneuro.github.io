@@ -28,7 +28,7 @@ As Seneca advised, “Let all your activity be directed to some object, let it h
 
 The question that remains is how to identify your purpose. Asking yourself difficult questions gets you closer to an answer.
 
-<img src="http://note.link.com.de/media/discover-purpose.jpg" />
+<img src="/media/discover-purpose.jpg" />
 
 How will the world be different because of you? When your children ask what you have done with your life, what will be your answer? What makes you come alive? What do you love? What would you do if money wasn’t a problem? These are only some questions that you can ask yourself. Y Combinator founder Paul Graham recommends his students find a question that makes the world more interesting.
 

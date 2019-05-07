@@ -26,7 +26,7 @@ Have you ever questioned the nature of your reality? How we think of ourselves a
 
 Plato illustrated that as long as we don’t question the nature of our reality, we remain trapped by it, our self-limitations stunting our growth as individuals. Why do we pursue concepts such as marriage, but never question what it means in today’s world or how its significance changed since ancient times?
 
-<img src="http://note.link.com.de/media/introduction.jpg" />
+<img src="/media/introduction.jpg" />
 
 
 Instead of forging our path, we chase the phantoms of those already laid out for us by others. Consider the many traditions that you have adopted, which have been passed down from generation to generation. We often choose ignorance, turning a blind eye to all of the surrounding factors that stop us from moving forward.

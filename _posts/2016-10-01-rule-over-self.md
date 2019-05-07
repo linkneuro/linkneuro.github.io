@@ -6,10 +6,6 @@ tags: syrus
 ---
 <img src="http://note.link.com.de/media/ruleoverself.jpg" />
 
-[https://amazon.com/author/link](https://amazon.com/author/link)
-
-[Buy on Amazon](https://www.amazon.com/Rule-Over-Self-Link-ebook/dp/B07QBM8S7D/ref=sr_1_7?keywords=rule+over+self+link&qid=1557269768&s=books&sr=1-7-spell)
-
 [Prologue](/prologue)
 
 [Introduction](/introduction)
@@ -99,4 +95,6 @@ tags: syrus
 
 
 
+[https://amazon.com/author/link](https://amazon.com/author/link)
 
+[Buy on Amazon](https://www.amazon.com/Rule-Over-Self-Link-ebook/dp/B07QBM8S7D/ref=sr_1_7?keywords=rule+over+self+link&qid=1557269768&s=books&sr=1-7-spell)

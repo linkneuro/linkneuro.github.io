@@ -8,7 +8,7 @@ tags: syrus action
 “When you have exhausted all possibilities, remember this: you haven’t.”
 — Thomas Edison
 
-“W e had about a week’s cash in the bank or less, and there was very little time in the year to resolve these things,” Elon Musk recounts, “I mean there were two or three business days left in the year.”
+“We had about a week’s cash in the bank or less, and there was very little time in the year to resolve these things,” Elon Musk recounts, “I mean there were two or three business days left in the year.”
 
 Tesla Motors, the electric car company he co-founded, desperately needed funding to stay alive. After the financial crisis had cast a dark shadow over the global economy, finding investors was tricky. After all, the company was selling what seemed at best an optional car.
 
@@ -44,7 +44,7 @@ Of course, persistence doesn’t mean that you should bang your head against the
 
 As persistence is most needed in times of adversity, let’s remember Athenian orator Demosthenes and learn from his example of how to turn any trial into triumph.
 
-<img src="http://note.link.com.de/media/never-give-up.jpg" />
+<img src="/media/never-give-up.jpg" />
 
 When Demosthenes was born, he had a speech impediment which made his life difficult. People laughed at him, but he persisted through the bad times. Inspired by a speech that he had watched, Demosthenes worked with tremendous effort to mold a new image that would transcend his natural disadvantages. He wanted to be able to give a speech that was as great as the one he had watched as a kid.
 

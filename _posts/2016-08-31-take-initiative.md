@@ -22,7 +22,7 @@ Abroad, his commission into the Continental Army involved more than just taking 
 
 We are all facing similar obstacles when we pursue our dreams. Think about your relationship with obstacles. Do you shrink when you are confronted with doubt? Instead of wondering whether we should give up our mission, what if we spent that time and energy working on following through?
 
-<img src="http://note.link.com.de/media/take-initiative.jpg" />
+<img src="/media/take-initiative.jpg" />
 
 Upon landing in America, Lafayette quickly proved himself worthy on the battlefield. And his devotion to the cause of liberty extended beyond his commission into the Continental Army. Upon returning to France, he lobbied alongside Benjamin Franklin to send additional troops to America. Even Washington, who was initially against giving military commissions to foreigners, praised Lafayette for having a large share of bravery and military ardor.
 

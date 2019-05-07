@@ -22,7 +22,7 @@ Art is a state of being, according to Robert Henri. As he defined it in The Art 
 
 Art pushes the envelope. According to inventor Ray Kurzweil, the world of art is ahead of the world of science in appreciating the power of human perception. Or as Leonardo da Vinci put it, art is the queen of all sciences communicating knowledge to all the generations of the world.
 
-<img src="http://note.link.com.de/media/develop-complete-mind.jpg" />
+<img src="/media/develop-complete-mind.jpg" />
 
 Of course we also need to study the sciences. Cherishing both arts and sciences provides us with a fuller understanding. Nature is one of life’s greatest teachers. There are so many secrets in nature that we have yet to be discovered.
 

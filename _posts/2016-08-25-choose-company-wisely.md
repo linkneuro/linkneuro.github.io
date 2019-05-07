@@ -18,7 +18,7 @@ Instead of thinking negatively, we need to learn to think critically. Critical t
 
 Consider this story. A couple of tiny frogs organize a running competition to race to a high tower. As the race starts, onlookers start to laugh at them. They discourage the frogs, saying that none of them will be able to finish the race. One by one, the frogs fall away, yet one frog marches onwards and makes it all the way to the tower. The crowd was shocked. How did the frog do it? His secret was that he was deaf and he could not hear anyone. Be like the victorious frog and ignore negative influences.
 
-<img src="http://note.link.com.de/media/choose-company-wisely.jpg" />
+<img src="/media/choose-company-wisely.jpg" />
 
 In the early 20th century, Gertrude Stein brought together artists and everyone attached to art for informal discussions. At 27 Rue de Fleurus, she and her brother had the foresight of creating a salon, which became the first modern art museum. They collected paintings by Gauguin, Manet, and Renoir, and early pictures by Picasso, Matisse, and many more. She befriended Pablo Picasso and other influential artists. The salons ended up becoming intimate gatherings that served as forums for the top thinkers, writers, and artists of the day. For everyone involved, it was a great learning environment.
 

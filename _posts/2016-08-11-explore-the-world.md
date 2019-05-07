@@ -16,7 +16,7 @@ Understanding the economy can seem a daunting undertaking. Although overly simpl
 
 In reality, the economy is far more complex, yet understanding the economy doesn’t necessarily require an advanced degree. If you understand productivity growth and the short-term and long-term debt cycle, you can track the economic movements and figure out what is happening. You can quickly learn basic concepts such as supply and demand, which put in context can be a powerful way to explain the economy.
 
-<img src="http://note.link.com.de/media/explore-the-world.jpg" />
+<img src="/media/explore-the-world.jpg" />
 
 After I first learned about investing, I realized that I needed to figure out where the market was going. And to do that requires an understanding of the economy. However, I was overwhelmed by the onslaught of information and data and the myriad of different opinions about where the world was heading.
 

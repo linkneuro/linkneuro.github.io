@@ -20,7 +20,7 @@ On his last days fighting cancer, Buddhist spiritual leader Rangjung Rigpe Dorje
 
 Consider the oldest and simplest way to clear your mind: meditation. We need to develop a non-judgmental attitude when we watch our thoughts. Instead of paying attention to every single thought, allow them to come and go.
 
-<img src="http://note.link.com.de/media/clear-mind.jpg" />
+<img src="/media/clear-mind.jpg" />
 
 When hedge fund manager Ray Dalio speaks about meditating, he is filled with joy, as he says it makes him feel like a ninja during a fight. It keeps him calm, centered and creative, helping him tackle problems in slow motion. When he is stressed during market hours he meditates, letting it open his mind and create equanimity.
 

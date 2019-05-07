@@ -24,7 +24,7 @@ Like Edison, we have to see every failure as a lesson worth learning. We should 
 
 It is important to stress how valuable getting feedback is for that. We should never quit, but that doesn’t mean that we need to bang our head against a wall. In theory, if after a while one experiment is not going anywhere, it is time to close the chapter and start another test. In practice, when do we know it is time to stop and try a different approach? It is not obvious without critical feedback.
 
-<img src="http://note.link.com.de/media/fail-forward.jpg" />
+<img src="/media/fail-forward.jpg" />
 
 When young F. W. Woolworth worked as a store clerk, he was interested in improving the business. He approached his boss with feedback, asking him to make a ten-cent sale to reduce inventory. His boss agreed. It was a resounding success, but his boss remained skeptical. Maybe it was luck. Soon, Woolworth approached him again with a new idea, this time asking him for capital to open a store. This store would only sell five- and ten-cent items. His boss didn’t like the idea. He deemed it too risky. “There are not enough items to sell for five and ten cents,” he told him.
 

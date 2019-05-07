@@ -24,7 +24,7 @@ Over time they captivated their viewers and expanded to a wider audience. Today,
 
 These days, with the help of the internet, the price of accomplishing anything has steadily fallen, and that raises the number of competitors. To create something of value requires ingenuity. So how do you find your niche to stand out from the crowd?
 
-<img src="http://note.link.com.de/media/find-medium.jpg" />
+<img src="/media/find-medium.jpg" />
 
 Like Monet and his friends, we need to find a niche that leverages our strengths and interests. Ideally, we should provide value in a way that avoids us competing with anyone. The most competitive markets are often the most saturated and offer the least amount of return. Finding your niche is about understanding what you can offer for what the world currently needs.
 

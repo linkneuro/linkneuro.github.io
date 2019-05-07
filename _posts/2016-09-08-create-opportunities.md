@@ -38,7 +38,7 @@ A few years later, she met Franklin Roosevelt, whom she later married. After her
 
 And if you aren’t given any opportunities or can’t seem to find one that you want to take, you can always create your own. Sometimes all it takes to create opportunities is look around you and help others in your immediate environment.
 
-<img src="http://note.link.com.de/media/create-opportunities.jpg" />
+<img src="/media/create-opportunities.jpg" />
 
 As an industrialist in Germany during World War II, Oskar Schindler sheltered over a thousand Jews by employing them in his factory. Since he had a contract to sell kitchenware, he began to hire Jews as the Nazi government targeted them. He protected them and argued that they were essential for the war efforts. When the situation intensified, he bribed officials in return for releasing Jews that were meant to go to a concentration camp. Over the course of his life, he saved over a thousand lives.
 

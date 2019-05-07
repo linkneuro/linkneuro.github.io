@@ -22,7 +22,7 @@ While interviewing Sebastian Thrun, who had worked on self-driving cars at Googl
 
 To be a definite optimist, we need to be bold. It is not simply enough to have a plan. We also need to have the courage to follow through. If we shy away from what is difficult, someone else will take on that challenge. Learning to face the uncomfortable will expand our comfort zone exponentially.
 
-<img src="http://note.link.com.de/media/face-fears.jpg" />
+<img src="/media/face-fears.jpg" />
 
 When Philippe Petit was 16 years old, he discovered his passion for the high wire and incorporated it into his public performances in Paris. With every performance, he became more audacious. In 1971, Petit walked between the towers of the Notre Dame Cathedral, and two years later he crossed the Sydney Harbor Bridge. His biggest coup? In 1974, he walked on a high wire, 1,300 feet above the ground, that he had suspended between the two towers of the World Trade Center.
 

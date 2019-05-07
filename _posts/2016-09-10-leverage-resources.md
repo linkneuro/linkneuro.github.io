@@ -18,7 +18,7 @@ Under cover of darkness, Washington relocated his troops from Brooklyn Heights t
 
 It wasn’t a pretty strategy, but it was an effective one. Nevertheless, as armies headed into winter quarters, Washington’s situation was still far from good. The British had sent more troops, and Washington’s army reduced to about 3,000 soldiers. Meanwhile, food supplies and pay for soldiers were at an all-time low, and soldier enlistments would run out by the end of the year.
 
-<img src="http://note.link.com.de/media/leverage-resources.jpg" />
+<img src="/media/leverage-resources.jpg" />
 
 During that time, Thomas Paine enlisted as a soldier and wrote a series of essays to encourage his fellow soldiers. “These are the times that try men’s souls,” he wrote. “We have this consolation with us, that the harder the conflict, the more glorious the triumph.”
 

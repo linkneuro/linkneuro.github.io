@@ -9,6 +9,6 @@ Learning is an integral part for our growth. There are many ways to learn to gro
 
 We need to remember that learning is a lifelong endeavor. Cherish learning, for it opens up doors to new worlds. If we learn the method of learning, we will be able to regard it as an essential component of growth. Without it we cannot think and act adequately.
 
-<img src="http://note.link.com.de/media/learning-takeaway.jpg" />
+<img src="/media/learning-takeaway.jpg" />
 
 When we do not grow as much as we want to, it is often because of our failure to learn. Without constantly learning, our thoughts and actions only have limited impact. By reflecting on and applying our learning, we can build a feedback loop that sustains it even when things are not going well.

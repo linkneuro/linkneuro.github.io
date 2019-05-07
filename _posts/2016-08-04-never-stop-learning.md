@@ -18,7 +18,7 @@ Abigail said, “You can’t attain learning by chance, you must seek for it wit
 
 It is foolish to underestimate our ability to learn and assume that with age comes slowness in remembering and applying new lessons, whether it be with languages or trades. Stanford psychologist Carol Dweck calls this a “fixed mindset,” a case in which people don’t believe they cannot learn anything new after a certain point in their life. They presume that their already existing talents and skills are the only inherent abilities they possess to determine their success.
 
-<img src="http://note.link.com.de/media/never-stop-learning.jpg" />
+<img src="/media/never-stop-learning.jpg" />
 
 
 Those who exhibit the opposite mindset seek challenges, solve problems, and pursue methods that would improve their existing skills and teach them new ones. Instead of regarding intelligence as an unchangeable and fixed characteristic, we can exercise and grow it with effort and persistence.

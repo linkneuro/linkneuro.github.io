@@ -23,7 +23,7 @@ Sometimes we are Narcissus, trapped by our ego in our own world. We create an il
 
 We cannot control our stream of thousands of thoughts every day. At times, they move us forward, at other times, they hinder. Unlike Narcissus, we need to keep our ego from tainting our quality of thinking. The ego is what drives this endless torture and isolation. The solution is to let go of things we cannot control and work with what we can.
 
-<img src="http://note.link.com.de/media/challenge-self.jpg" />
+<img src="/media/challenge-self.jpg" />
 
 We need to consider material that contradicts how we see ourselves and the world. We need to kill our ego, or at least kick it off the throne it occupies in our life. Read what contradicts our bias and read outside of what we would normally would. Nobody is entitled to their view unless they also understand the opposite perspective.
 

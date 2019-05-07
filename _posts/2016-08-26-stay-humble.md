@@ -26,7 +26,7 @@ There is one past, but many possible futures. There are different interpretation
 
 In a world of uncertainty that is constantly changing, humility is the best companion. Throughout his life, George Washington struggled with his ego. An ambitious young man, he was constantly tempted by vanity. He liked wearing his uniform and impressing the ladies. Over time, however, he learned about the importance of staying humble. He realized that serving others and not just promoting himself would bestow more honors on him.
 
-<img src="http://note.link.com.de/media/stay-humble.jpg" />
+<img src="/media/stay-humble.jpg" />
 
 On a cold December day in 1783, a victorious Washington surrendered his military commission to Congress. “Having now finished the work assigned me, I retire from the great theater of Action,” he announced in his address to Congress, “and bidding an Affectionate farewell to this August body under whose orders I have so long acted, I here offer my Commission, and take my leave of all the employments of public life.”
 

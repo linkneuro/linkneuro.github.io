@@ -26,7 +26,7 @@ Often, we create a kind of virtual reality. We live in a bubble and look at the 
 
 Ego often stands in the way of seeing reality as it is. So we must not look at the world through our biased lens, but looking at the truth of the matter. We need to love the truth, whether or not it suits us. Ask yourself: what is it that you don’t know? If you know your limitations, you can adapt. If you are truthful and curious, you allow yourself to learn.
 
-<img src="http://note.link.com.de/media/adjust-the-sail.jpg" />
+<img src="/media/adjust-the-sail.jpg" />
 
 As hedge fund manager Ray Dalio writes, “Truth — more precisely, an accurate understanding of reality — is the essential foundation for producing good outcomes.”
 

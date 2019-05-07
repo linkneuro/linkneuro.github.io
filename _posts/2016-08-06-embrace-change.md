@@ -28,7 +28,7 @@ Imagine a caterpillar transforming into a butterfly. During metamorphosis, the n
 
 Like the caterpillar’s immune system, we often resist a transition into our new self. As creatures of habit, we are hesitant to change because it’s uncomfortable. Or we are impatient and expect things to happen faster than they can occur.
 
-<img src="http://note.link.com.de/media/embrace-change.jpg" />
+<img src="/media/embrace-change.jpg" />
 
 Consider this analogy by historian Niall Ferguson: “Mankind sails forward through time in seas that are sometimes calm, sometimes stormy. At times it seems almost becalmed, at other times it can do twelve knots. Depending on who captains the ship, it sometimes veers to port, sometimes to starboard. When it changes direction, the turn is generally slow.”
 

@@ -26,7 +26,7 @@ Orville sent a telegram to his father that day. “Success. Four flights Thursda
 
 Their younger brother pitched the news to The Dayton Journal, a local news editor, but was rejected. “If it had been fifty-seven minutes,” the editor reasoned, “then it might have been a news item.” The New York Times and The Washington Post did not find the story newsworthy, either. French newspapers called it a bluff. Nobody believed that two brothers from Ohio had solved the problem of flight.
 
-<img src="http://note.link.com.de/media/fight-old-guard.jpg" />
+<img src="/media/fight-old-guard.jpg" />
 
 The Paris edition of The New York Herald in February 10, 1906 wrote, “The Wrights have flown, or they have not flown. They possess a machine, or they do not possess one. They are in fact either fliers or liars. It is difficult to fly. It’s easy to say, ‘We have flown.’”
 

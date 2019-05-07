@@ -34,7 +34,7 @@ This is essentially the prelude to the American Revolution. The colonists only r
 
 It is imperative that we seek the clues that lead us to awareness. Once we find the culprit behind what’s going wrong, we can assemble a response. We can start to gain awareness by looking at ourselves from a critical standpoint. Start to locate the blind spots that are shielding the range of possibilities that are available. With a subjective lens, we cannot fathom alternatives or imagine a different path.
 
-<img src="http://note.link.com.de/media/escape-prison.jpg" />
+<img src="/media/escape-prison.jpg" />
 
 
 In 2002, during a Pentagon news briefing in the wake of 9/11, U.S. Secretary of Defense Donald Rumsfeld was asked why there was a lack of evidence linking the Iraqi government with the supply of mass destruction weapons to terrorist groups.

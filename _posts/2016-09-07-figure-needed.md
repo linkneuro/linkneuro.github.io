@@ -26,7 +26,7 @@ How do we find the catalyst that can accelerate our growth? It is not very clear
 
 Like Seabiscuit, we need to change our environment. As Seneca advised, change of place imparts new vigor to the mind. It is often not because of our lack of ability that we can’t do what we want to do, but because something is missing and we don’t know what it is. It is often by experimenting with different possible solutions that we find what we were missing. If we keep doing the same things over and over again without changing anything, we cannot expect different results. We need to focus on our goal and not get married to any one potential path that we think we need to travel. There are many different roads to get to the finish line.
 
-<img src="http://note.link.com.de/media/figure-needed.jpg" />
+<img src="/media/figure-needed.jpg" />
 
 It is easy to get wrapped up in our thoughts or listen to the advice of other people. Instead, we need to ask ourselves what is missing in any given situation that we’re in. If we can pinpoint that, we can begin to search for the catalyst that will help us grow.
 
