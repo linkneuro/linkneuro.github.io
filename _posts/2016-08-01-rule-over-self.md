@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Rule Over Self"
-category: new
+categories: new
 tags: 
 ---
 
