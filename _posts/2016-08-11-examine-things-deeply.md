@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Examine Things Deeply"
-categories: self
-tags: syrus
+categories: essay
+tags: syrus learning
 ---
 
 “Philosophy begins in wonder. And, at the end, when philosophic thought has its best, the wonder remains.”
-— ALFRED NORTH WHITEHEAD
+— Alfred North Whitehead
 
 A s emperor of the Roman Empire from the year 169 to 180, Marcus Aurelius sat down to write, every other day, for the rest of his life. Not for anyone else, but for himself. In a series of notes inspired by Stoic philosophy, he reflected on his challenges. He developed his personal operating system that he used to navigate his chaotic world. Although he never intended the notes to be published, today the collection of records is known as Meditations.
 

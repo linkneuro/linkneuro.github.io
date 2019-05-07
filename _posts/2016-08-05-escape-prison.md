@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Escape Your Prison"
-categories: self
-tags: syrus
+categories: essay
+tags: syrus learning
 ---
 
 “Those who are unaware they are walking in darkness will never seek the light.”

@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Adjust the Sail"
-categories: self
-tags: syrus
+categories: essay
+tags: syrus learning
 ---
 
 “Being truthful is essential to being an independent thinker and obtaining a greater understanding of what is right.”

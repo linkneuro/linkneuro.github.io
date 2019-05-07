@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Embrace Change"
-categories: self
-tags: syrus
+categories: essay
+tags: syrus learning
 ---
 
 “Change is the only constant.”

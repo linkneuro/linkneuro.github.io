@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Rule Over Self: Learning Takeway"
-categories: self
-tags: syrus
+categories: essay
+tags: syrus learning
 ---
 
 Learning is an integral part for our growth. There are many ways to learn to grow as a person and increase the scope of our worldview. It is encouraging to know that today with the internet, the possibilities of learning have increased dramatically. Yet this part only offers a glimpse as many more ways of learning that were not discussed here at length.

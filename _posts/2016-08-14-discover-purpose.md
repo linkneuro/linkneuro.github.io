@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Discover Your Purpose"
-categories: self
-tags: syrus
+categories: essay
+tags: syrus learning
 ---
 
 “Let yourself be silently drawn by the strange pull of what you really love. It will not lead you astray.”
-— RUMI
+— Rumi
 
 Born in Pretoria, South Africa, Elon Musk knew early on in his life that he wanted to move to America in order to solve big societal issues. For him, the United States was the country where great things happened. After a brief stint studying in Canada, he transferred to the University of Pennsylvania, where he studied physics and business.
 

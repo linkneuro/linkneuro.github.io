@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Invest In Yourself"
-categories: self
-tags: syrus
+categories: essay
+tags: syrus learning
 ---
 
 “Knowledge makes a man unfit to be a slave.”

@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Develop A Complete Mind"
-categories: self
-tags: syrus
+categories: essay
+tags: syrus learning
 ---
 
 “Study the science of art; study the art of science. Learn how to see. Realize that everything connects to everything else.”

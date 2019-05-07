@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Explore The World"
-categories: self
-tags: syrus
+categories: essay
+tags: syrus learning
 ---
 
 “What should they know of England who only England know?”

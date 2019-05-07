@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Kindle Your Imagination"
-categories: self
-tags: syrus
+categories: essay
+tags: syrus learning
 ---
 
 “We have it in our power to begin the world over again.”
