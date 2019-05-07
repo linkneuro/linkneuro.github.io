@@ -5,7 +5,10 @@ category:
 tags: 
 ---
 
-# Rule Over Self
 
 [Prologue](https://note.link.com.de/prologue)
-s
+</br>
+[Introduction](https://note.link.com.de/prologue)
+</br>
+### Part I: Learning
+[Never Stop Learning](https://note.link.com.de/prologue)
