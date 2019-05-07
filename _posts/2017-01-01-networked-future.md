@@ -78,7 +78,7 @@ Obviously Soros is better at explaining the theory of reflexivity and how it app
 
 > I can state the core idea in two relatively simple propositions. One is that in situations that have thinking participants, the participants’ view of the world is always partial and distorted. That is the principle of fallibility. The other is that these distorted views can influence the situation to which they relate because false views lead to inappropriate actions. That is the principle of reflexivity. For instance, treating drug addicts as criminals creates criminal behavior. It misconstrues the problem and interferes with the proper treatment of addicts. As another example, declaring that government is bad tends to make for bad government.
 
-<img src="http://link.com.de/media/soros-reflexive-cycle.png" />
+<img src="http://note.link.com.de/media/soros-reflexive-cycle.png" />
 
 If you like more details on this:
 
