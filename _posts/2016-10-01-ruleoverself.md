@@ -4,7 +4,7 @@ title:  "Rule Over Self"
 categories: book
 tags: syrus
 ---
-<img src="media/ruleoverself.jpg" />
+<img src="/media/ruleoverself.jpg" />
 
 [Prologue](/prologue)
 
