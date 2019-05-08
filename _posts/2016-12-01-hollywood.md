@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hollywood"
-categories: autobio
+categories: bio
 tags: 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Silicon Valley"
-categories: autobio
+categories: bio
 tags: 
 ---
 
