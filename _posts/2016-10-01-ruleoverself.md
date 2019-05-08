@@ -12,6 +12,7 @@ tags: syrus
 
 ### [Part I: Learning](/learning)
 
+<img src="/media/part1-learning.jpg" />
 
 [Never Stop Learning](/never-stop-learning)
 
@@ -41,6 +42,7 @@ tags: syrus
 
 ### [Part II: Thinking](/thinking)
 
+<img src="/media/part2-thinking.jpg" />
 
 [Watch Your Thoughts](/watch-thoughts)
 
@@ -68,6 +70,7 @@ tags: syrus
 
 ### [Part III: Action](/action)
 
+<img src="/media/part3-action.jpg" />
 
 [Take Initiative](/take-initiative)
 
