@@ -6,7 +6,7 @@ tags: syrus
 ---
 <img src="/media/ruleoverself.jpg" />
 
-During his time in graduate school at Harvard, I wrote down a series of private reflections and reminders outlining my philosophy for turning thought into action and becoming a better thinker. 
+During my time in graduate school at Harvard, I wrote down a series of private reflections and reminders outlining my philosophy for turning thought into action and becoming a better thinker. 
 
 The way we think determines our reality, and as such, many of us are trapped in our own thought prisons. Our enemy is within - in how we think, how we act based on those thoughts, and in how we perceive ourselves and our abilities. 
 
