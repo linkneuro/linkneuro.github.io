@@ -10,7 +10,7 @@ During my time in graduate school at Harvard, I wrote down a series of private r
 
 The way we think determines our reality, and as such, many of us are trapped in our own thought prisons. Our enemy is within - in how we think, how we act based on those thoughts, and in how we perceive ourselves and our abilities. 
 
-As Albert Einstein put it nearly one hundred years ago: “We cannot solve our problems with the same thinking we used when we created them.” The way we think can make us or it can break us. The Thinker takes you on a three-part journey of learning, thinking and action.
+As Albert Einstein put it nearly one hundred years ago: “We cannot solve our problems with the same thinking we used when we created them.” The way we think can make us or it can break us. *Rule Over Self* takes you on a three-part journey of learning, thinking and action.
 
 LEARNING. 
 Unlocks mental models to see the world with new eyes and shows how to understand yourself at a deeper level. 
