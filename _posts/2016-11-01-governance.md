@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Governance"
-categories: biography
+categories: autobio
 tags: 
 ---
 

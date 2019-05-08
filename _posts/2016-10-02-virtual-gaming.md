@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Virtual Gaming"
-categories: biography
+categories: autobio
 tags: 
 ---
 

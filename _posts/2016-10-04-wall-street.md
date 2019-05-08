@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Wall Street"
-categories: biography
+categories: autobio
 tags: 
 ---
 
