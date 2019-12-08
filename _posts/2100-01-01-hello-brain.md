@@ -6,4 +6,4 @@ tags:
 
 ---
 
-Future post about the brain
+Future post about the brain computers
