@@ -19,7 +19,7 @@ code {
 .prose {
 
   p, ol, ul {
-    font-size: 21px;
+    font-size: $prose-font-size;
     margin-bottom: 1em;
     width: 100%;
 
