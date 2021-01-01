@@ -4,8 +4,6 @@ title:  "On Virtual Dreams"
 categories:
 tags: syrus
 ---
-# On virtual dreams
-
 Standing at the beginning of a new decade that will enable things most would not deem possible, we must have the courage to do the impossible and dream a new dream. Let us ask how we can achieve what was never done before. What are things that we can invent that never existed before and will improve life? To create something that will allow us to see ourselves and the world from a new light.
 
 In a recent conversation between German Axel Springer's Mathias Döpfner and Elon Musk, he was asked about the most important invention for mankind. What do you think was his answer? Perhaps not what you expect. He said language. Our ability to communicate enabled many inventions. Words in a way represent a source of magic. Language was foundational for everything else that followed. Writing, which followed, enabled us to transfer ideas and knowledge on a more permanent basis. The printing press and publishing in general democratized that process while digitization centuries later made it accessible and global. "Instant digital communication worldwide is really like humanity developing a nervous system," he added, "And now with the internet we have instant access to all the world's knowledge." 
