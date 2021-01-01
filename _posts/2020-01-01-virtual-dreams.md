@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "On Virtual Dreams"
+title:  "On virtual dreams"
 categories:
 tags: syrus
 ---
