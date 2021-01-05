@@ -2,6 +2,7 @@
 layout: post
 title:  "On virtual dreams"
 categories:
+image: /default-card.png
 tags: syrus
 ---
 Standing at the beginning of a new decade that will enable things most would not deem possible, we must have the courage to do the impossible and dream a new dream. Let us ask how we can achieve what was never done before. What are things that we can invent that never existed before and will improve life? To create something that will allow us to see ourselves and the world from a new light.
